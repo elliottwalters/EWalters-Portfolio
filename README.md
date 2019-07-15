@@ -1,6 +1,8 @@
 # EWalters-Portfolio
 Test portfolio for class
 
+https://elliottwalters.github.io/EWalters-Portfolio/
+
 #About Me
 
 My name is Elliott Walters. I am currently enrolled in the Telling Stories with Data class at CMU through the Heinz college. I work at CMU and a major part of my job involves talking about data with doctoral and masters students. I had some free time over the summer and thought a class like this might be beneficial for me to be able to provide some more guidance to students when we are working together and might help my work stand out more as well. He/Him/His
