@@ -13,6 +13,7 @@ Almost all of my professional writing and work comes out very bland. While the c
 
 #Portfolio
 
+Critique 2
 
 ![image](Screen Shot 2019-07-16 at 10.19.21 AM.png)
 
