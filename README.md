@@ -38,5 +38,6 @@ I decided to try stacked bars and I am happier with the results. The jump is ver
 This is where it ended up after going over it again. This is for the DHS side of the assignment and is an obvious quick call for more funding and fast.
 
 ![image](charts 1.jpg)
+![image](DHS.jpg)
 
 This is more from a journalist perspective. To try and make it less abstract I used people for the waffle pieces and tried to go with a green yellow red set to match with street light feeling people are comfortable with. It is really close to the data used in the above donut chart but I like this more. It gives more weight to the numbers.
