@@ -25,15 +25,14 @@ While it is probably outside the scope of what can be done with the original doc
 I might also pick another color for the non-degree seeking students as it does not show up very well. If I was doing this again I would also make the waffle chart to be 10 x 10 to get a better idea of how students were distributed with a key showing how many each single person represented. Overall not bad, definitely better than the original but lot of small mistakes.
 
 
-Duties & Responsibilities
+I did two in infogram real quick to get an idea on how things might end up looking. Really basic chart but it highlights the biggest issue. The bars are way to fat though. It looked better on the site before I published it here.
 
-Educate Graduate School of Arts and Sciences (GSAS) students and alumni about the process of career exploration, self-assessment, decision-making, and job search techniques in drop-in and one-on-one advising sessions to help them identify their skills and interests and understand how they connect to 21st century academic and nonacademic jobs. Deliver career workshops and webinars and organize career panel and guest speaker events. Collaborate on career and professional development events with GSAS academic departments, GSAS student groups, and other offices across Harvard. Research and keep current on new developments and employment for master’s and PhD candidates. In collaboration with the Employer Relations Office, provide outreach and marketing to employers, organizations and student groups for the purpose of job/internship development and participation in career fairs, panels and workshops, and other career exploration events. Research and write material for various OCS publications including listservs, website, social media and print publications.  Educate and advise Harvard College undergraduate students and Faculty of Arts and Sciences alumni on applying to PhD programs in the arts and sciences. Participate in full range of office-wide events including employer visits, orientations, career fairs, open houses, professional development workshops and university-wide meetings. Seek out new information regarding changes in industry, technology, and economic trends, along with the role of higher education in educating students for future contributions to society; adapt programming accordingly.
+<iframe title="Border Crossings Jump" aria-label="Column Chart" src="//datawrapper.dwcdn.net/pA6Fa/1/" scrolling="no" frameborder="0" style="border: none;" width="320" height="400"></iframe>
+I decided to try stacked bars and I am happier with the results. The jump is very clear. Red for emphasis on the big jump. Not sure if I like the bold color or not.
 
-Basic Qualifications
+<iframe title="Change in Border Crossing&nbsp; Apprehensions" aria-label="Stacked Bars" src="//datawrapper.dwcdn.net/mvLIq/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="176"></iframe>
+This is where it ended up after going over it again. This is for the DHS side of the assignment and is an obvious quick call for more funding and fast.
 
-Bachelor’s degree required.  5 or more years of experience advising in an academic environment.
- 
+![image](charts 1.jpg)
 
-Additional Qualifications
-
-Graduate degree strongly preferred. Ability to develop and maintain relationships with potential employers and organizations across a broad array of career fields.  Excellent career advising skills, 5 plus years of career advising experience preferred. Strong public speaking skills and demonstrated ability to develop & deliver career education programs and materials. Experience advising students and alumni interested in a variety of career areas. Demonstrated ability to work in collaboration with students, faculty, administrators, staff, alumni, & external partners. Familiarity with career opportunities for master’s and PhD-level candidates. Familiarity with Microsoft Office, career-related software, social media and general web-based systems.
+This is more from a journalist perspective. To try and make it less abstract I used people for the waffle pieces and tried to go with a green yellow red set to match with street light feeling people are comfortable with. It is really close to the data used in the above donut chart but I like this more. It gives more weight to the numbers.
