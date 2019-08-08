@@ -45,3 +45,7 @@ This is more from a journalist perspective. To try and make it less abstract I u
 
 
 Link to Week 3 Homework: https://elliottwalters.github.io/OECD2/
+
+Link to : final Slides : https://infogram.com/final-for-data-1hdw2jqjj7re4l0?live
+
+Link To Final Github page: https://elliottwalters.github.io/Final_Project_ewalters/
