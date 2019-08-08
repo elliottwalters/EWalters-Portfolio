@@ -15,18 +15,26 @@ Almost all of my professional writing and work comes out very bland. While the c
 
 Critique 1
 
-<iframe title="Average Facebook Likes 2016" aria-label="Bar Chart" id="datawrapper-chart-YBKIR" src="//datawrapper.dwcdn.net/YBKIR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+https://elliottwalters.github.io/Crit-1/
 
 Critique 2
 
-![image](Screen Shot 2019-07-16 at 10.19.21 AM.png)
+https://elliottwalters.github.io/Crit2/
 
-Carnegie Mellon Universit: Office of International Education . (2019). Admission Statistic for Summer/Fall 2018. Retrieved from: https://www.cmu.edu/oie/about/docs/2018-admit-stats.pdf
- 
+Rawgraph Tutorial
 
-While it is probably outside the scope of what can be done with the original document I decided to go with a uted color scale of greys, whites, and browns. I did not like the idea of color influencing information. That might be useful if someone is asking for money or trying to get ideas across, but here we are just trying to inform. I tried both a waffle chart and a pie chart. Looking at it now after the fact I should have added the exact total number of students on the inside of the donut chart. That is actually more important than the breakdown for most people reading this document. This is a mjor oversight on my part.
+https://elliottwalters.github.io/Rawgraph-Tutorial/
 
-I might also pick another color for the non-degree seeking students as it does not show up very well. If I was doing this again I would also make the waffle chart to be 10 x 10 to get a better idea of how students were distributed with a key showing how many each single person represented. Overall not bad, definitely better than the original but lot of small mistakes.
+DHSIOG Homework:
+
+https://elliottwalters.github.io/DHSOIG/
+
+OECD Homework:
+
+https://elliottwalters.github.io/OECD2/
+
+
+
 
 
 I did two in infogram real quick to get an idea on how things might end up looking. Really basic chart but it highlights the biggest issue. The bars are way to fat though. It looked better on the site before I published it here.
